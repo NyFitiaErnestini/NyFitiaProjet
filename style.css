@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.ray{
+    width: 50%;
+    margin-left: 50%;
+    background-color: aqua;
+    padding: 20px;
+}
+.roa{
+    width: 50%;
+    background-color: blue;
+    padding: 20px;
+}
